@@ -7,7 +7,6 @@ on:
       - develop
     # Skip jobs when only documentation files are changed
     paths-ignore:
-      - '**.md'
       - '**.rst'
       - 'docs/**'
   pull_request:
