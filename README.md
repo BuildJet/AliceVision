@@ -14,7 +14,7 @@ See [results of the pipeline on sketchfab](http://sketchfab.com/AliceVision).
 Photogrammetry is the science of making measurements from photographs.
 It infers the geometry of a scene from a set of unordered photographies or videos.
 Photography is the projection of a 3D scene onto a 2D plane, losing depth information.
-The goal of photogrammetry is to reverse this process.
+The goal of photogrammetry is to reverse this process
 
 See the [presentation of the pipeline steps](http://alicevision.github.io/#photogrammetry).
 
